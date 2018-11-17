@@ -220,7 +220,8 @@ _createData() {
 </View>
 ```
 ##### 参考内容
-ESTree，可参考：https://github.com/estree/estree ，如：
+1. ESTree，可参考：https://github.com/estree/estree
+2. Babel，可参考：https://github.com/babel/babel
 
 ##### 模板处理
 ```javascript
