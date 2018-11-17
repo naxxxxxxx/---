@@ -258,6 +258,6 @@ wx:if
 2. Babel，可参考：https://github.com/babel/babel
 
 ## 沙龙PPT分享
-1. [多端开发统一框架](./多端开发统一框架——Taro 深度剖析.pdf)
-2. [可视化创建小程序方案分享](./可视化创建小程序方案分享4.pdf)
-3. [小程序架构和踩过的坑分享会](./小程序架构和踩过的坑分享会-更新.pdf)
+1. [多端开发统一框架](https://github.com/naxxxxxxx/MiniProgramShareSummary/blob/master/%E5%8F%AF%E8%A7%86%E5%8C%96%E5%88%9B%E5%BB%BA%E5%B0%8F%E7%A8%8B%E5%BA%8F%E6%96%B9%E6%A1%88%E5%88%86%E4%BA%AB4.pdf)
+2. [可视化创建小程序方案分享](https://github.com/naxxxxxxx/MiniProgramShareSummary/blob/master/%E5%A4%9A%E7%AB%AF%E5%BC%80%E5%8F%91%E7%BB%9F%E4%B8%80%E6%A1%86%E6%9E%B6%E2%80%94%E2%80%94Taro%20%E6%B7%B1%E5%BA%A6%E5%89%96%E6%9E%90.pdf)
+3. [小程序架构和踩过的坑分享会](https://github.com/naxxxxxxx/MiniProgramShareSummary/blob/master/%E5%B0%8F%E7%A8%8B%E5%BA%8F%E6%9E%B6%E6%9E%84%E5%92%8C%E8%B8%A9%E8%BF%87%E7%9A%84%E5%9D%91%E5%88%86%E4%BA%AB%E4%BC%9A-%E6%9B%B4%E6%96%B0.pptx)
