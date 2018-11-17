@@ -219,9 +219,6 @@ _createData() {
     <View bindtap="handler">点我点我</View>
 </View>
 ```
-##### 参考内容
-1. ESTree，可参考：https://github.com/estree/estree
-2. Babel，可参考：https://github.com/babel/babel
 
 ##### 模板处理
 ```javascript
@@ -254,3 +251,13 @@ wx:if
 2. 知道如何去根据Taro制作跨终端的应用
 
 ## 感谢分享
+
+
+## 参考内容
+1. ESTree，可参考：https://github.com/estree/estree
+2. Babel，可参考：https://github.com/babel/babel
+
+## 沙龙PPT分享
+1. [多端开发统一框架](./多端开发统一框架——Taro 深度剖析.pdf)
+2. [可视化创建小程序方案分享](./可视化创建小程序方案分享4.pdf)
+3. [小程序架构和踩过的坑分享会](./小程序架构和踩过的坑分享会-更新.pdf)
